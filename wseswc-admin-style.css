@@ -1,0 +1,43 @@
+a{
+    text-decoration: none;
+}
+td{
+    font-size: 15px;
+}
+.tbl_maillist{
+    float:left;width:100%;
+}
+th{
+    font-size: 15px;
+}
+.sies_updatebtn:hover{
+    cursor: pointer;
+}
+.sies_pagilinks{
+    padding: 5px;
+}
+.actpg{
+    color:black;cursor:text;
+}
+.actpg:hover{
+    color:black;
+}
+.sies_pagi{
+    float:left;width:100%;margin:10px 0px 0px 0px;background-color: whitesmoke;padding:5px 0px 5px 0px;border: 1px solid lightgray;
+}
+.msggreen{
+    float:left;width:100%;text-align: center;color:green;font-size: 14px;font-weight: bold;
+}
+.exportlinks{
+    float:left;width:100%;text-align: right;margin:20px 0px 5px 0px;
+}
+.exportlinks a{
+    margin-right: 20px;
+}
+.errormsg{
+    float:left;width: 100%;color:red;text-align: center;margin: 0px 0px 5px 0px;font-size: 15px;
+}
+.common{
+    float:left;
+    width: 100%;
+}

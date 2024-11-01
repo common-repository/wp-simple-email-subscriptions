@@ -1,0 +1,54 @@
+
+.siesform p{
+    float:left;
+    width: 100%;
+    margin:5px 0px 0px 0px;    
+}
+.siesform p label{
+    float:left;
+    margin: 5px 0px 0px 0px;
+}
+.siesform p .siesinput{
+    float:right;
+}
+.siesform p.sies_submit{
+    float:left;
+    width: 100%;
+    text-align: center;
+    margin: 5px 0px 5px 0px;
+}
+.sies_error{
+    float:left;
+    width: 100%;
+    color:red;
+    text-align: center;
+}
+.sies_msg{
+    float:left;
+    width: 100%;
+    color:green;
+}
+.vlderrormsg{
+    float:left;
+    width: 100%;
+    margin: 3px 0px 0px 0px;
+    text-align: right;
+    color:red;
+    font-size: 12px;
+}
+.siesformpara{   
+    margin-bottom: 0px !important; 
+}
+
+.captchapara{   
+    margin-bottom: 0px !important; 
+}
+.captchalabel{
+    float: left;width: 100%;text-align: center;color:brown;
+}
+.captchabox{
+    float:left;width:100%;text-align: center;margin: 5px 0px 0px 0px;background-color:whitesmoke;border-radius: 5px;padding: 10px 0px;
+}
+.captchaqt{
+    padding: 5px 10px;        
+}
